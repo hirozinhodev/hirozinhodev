@@ -1,6 +1,5 @@
 <div align="center">
   <img src="https://i.imgur.com/OiDYQrY.png" alt="Hirozinho Logo" width="200"/>
-  <img src="https://i.imgur.com/wJ99Sbe.png" alt="Hirozinho Mago" width="150"/>
 </div>
 
 <h1 align="center">E aí, devs 👋</h1>
@@ -24,12 +23,22 @@
 
 ```javascript
 import Developer from 'Hirozinho.gg';
+import MagicHat from '🧙‍♂️';
 
 class Hirozinho extends Developer {
+  constructor() {
+    super();
+    this.hat = new MagicHat(); // 🎩 Chapéu mágico equipado!
+  }
+  
   name     = 'Hirozinho';
   area     = 'Desenvolvedor Fullstack';
   focus    = 'Bots, Sistemas e Aplicações Web';
   learning = 'Sempre evoluindo e aprendendo novas tecnologias';
+  
+  castSpell(problem) {
+    return this.hat.transform(problem, 'solution'); // ✨ Mágica do código!
+  }
   
   getMotivation() {
     return 'Criar soluções que fazem a diferença! 🚀';
@@ -61,23 +70,6 @@ class Hirozinho extends Developer {
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hirozinhodev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hirozinhodev&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hirozinhodev&theme=tokyonight" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hirozinhodev&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
-</div>
-
----
-
 ## 🎯 Projetos em Destaque
 
 <div align="center">
@@ -97,6 +89,11 @@ Conheça mais sobre meu trabalho e projetos
 ---
 
 ## 🌟 O que eu faço?
+
+<div align="center">
+  <img src="https://i.imgur.com/wJ99Sbe.png" alt="Mágica do Código" width="80"/>
+  <p><em>Transformando café em código com um toque de mágica! ✨</em></p>
+</div>
 
 ```typescript
 const skills = {
@@ -152,9 +149,10 @@ const skills = {
   
   <br>
   
-  **“O bem-estar da alma consiste em dar forma àquilo que antes era caos.”**
+  **"O bem-estar da alma consiste em dar forma àquilo que antes era caos."**
+  
+  <br>
   
   ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=hirozinhodev.hirozinhodev)
   
 </div>
-# hirozinho.gg
