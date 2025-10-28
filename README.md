@@ -47,7 +47,9 @@ class Hirozinho extends Developer {
 ```
 
 <div align="center">
-  <img src="https://i.imgur.com/placeholder-dev-animation.gif" alt="Coding Animation" width="500"/>
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%AA%84+Transformando+caf%C3%A9+em+c%C3%B3digo...;%E2%9C%A8+Conjurando+solu%C3%A7%C3%B5es+m%C3%A1gicas!;%F0%9F%94%AE+Criando+experi%C3%AAncias+incr%C3%ADveis!)](https://git.io/typing-svg)
+
 </div>
 
 ---
@@ -93,6 +95,9 @@ Conheça mais sobre meu trabalho e projetos
 <div align="center">
   <img src="https://i.imgur.com/wJ99Sbe.png" alt="Mágica do Código" width="80"/>
   <p><em>Transformando café em código com um toque de mágica! ✨</em></p>
+  
+  ![Magic Wand](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
+  
 </div>
 
 ```typescript
