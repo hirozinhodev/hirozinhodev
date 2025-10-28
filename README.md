@@ -48,7 +48,7 @@ class Hirozinho extends Developer {
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4DC6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%E2%98%95+Transformando+caf%C3%A9+em+c%C3%B3digo...;%E2%9C%A8+Conjurando+solu%C3%A7%C3%B5es+m%C3%A1gicas!;%F0%9F%94%AE+Criando+experi%C3%AAncias+incr%C3%ADveis!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4DC6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=💻+Transformando+ideias+em+código...;✨+Conjurando+soluções+mágicas!;🚀+Criando+experiências+incríveis!)](https://git.io/typing-svg)
 
 </div>
 
