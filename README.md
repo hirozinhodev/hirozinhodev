@@ -145,7 +145,7 @@ const skills = {
 
 <div align="center">
   
-  ![Snake animation](https://github.com/hirozinhodev/hirozinhodev/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/hirozinhodev/hirozinhodev/blob/output/github-contribution-grid-snake-magic.svg)
   
   <br>
   
