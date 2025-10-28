@@ -112,8 +112,8 @@ const skills = {
   specialties: [
     '🤖 Desenvolvimento de Bots Discord',
     '⚡ Aplicações Web Fullstack',
-    '📚 Documentação Técnica',
-    '🔧 Sistemas Personalizados'
+    '⚙ Scripts, programas diversos que automatizam atividades',
+   
   ],
   
   currentFocus: 'Criando experiências incríveis para usuários'
