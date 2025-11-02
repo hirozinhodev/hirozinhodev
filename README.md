@@ -133,17 +133,6 @@ const skills = {
 </div>
 
 ---
-
-<div align="center">
-  
-### 💭 Filosofia de Desenvolvimento
-
-*"Código limpo não é escrito seguindo regras. Código limpo é escrito por desenvolvedores que se importam."*
-
-</div>
-
----
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
